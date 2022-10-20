@@ -86,13 +86,13 @@ export function first(array) {
 
 ### Launch the tests
 
-To check that your solution is correct, you can launch the command: 
+To check that your solution is correct, you can launch the command:
 
 ```bash
 yarn test methods/first
 ```
 
-or 
+or
 
 ```bash
 npm test methods/first
@@ -100,13 +100,13 @@ npm test methods/first
 
 You can also launch the whole test suite (`yarn test` or `npm t`)
 
-### Helpers
+## Helpers
 
 Sometimes you'll need intermediary functions to write a solution. You can either write your own helpers or use one taken from the `helpers` directory.
 
 You should find some handy methods and helping types there.
 
-### Difficulty levels
+## Difficulty levels
 
 Every function is given a difficulty level so you can train yourself on the appropriate level.
 
@@ -114,15 +114,17 @@ It is not a very objective ranking as someone will find certain types of functio
 
 Sometimes the difficulty is a bit artificial, like for the `indexOf` function which has to be able to match objects and arrays, according to the specs.
 
+You will also find easier to implement some functions if you have already implemented one that is very similar.
+
 Feel free to add your own constraints or to update the specifications to fit your needs. Remember that you migh have to update the provided tests as well.
 
 One again the goal is to train yourself to manipulate arrays. It should become easier and easier with practice.
 
-### Definitions
+## Definitions
 
 You might not need to read this section but still it can help you to better understand some parts of the kata's challenges.
 
-#### Flatten
+### Flatten
 
 An array can be composed of multiple subarrays which can also be composed of multiple subarrays...
 
@@ -148,13 +150,13 @@ const flattenTwoLevels = [1, 2, 3, 4, 5, 6, [7]];
 const flattenThreeLevels = [1, 2, 3, 4, 5, 6, 7];
 ```
 
-#### Equality
+### Equality
 
 To determine if two objects are equal, we can either compare their values or their reference.
 
 Doing reference comparison means we're checking if the object in memory is the same. It is the case if, for example, a change applied to one of the reference will reflect in the other reference.
 
-#### Predicate
+### Predicate
 
 We call `predicate` a function used to determine if some conditions are met.
 
@@ -168,7 +170,7 @@ function isEven(count: number) {
 }
 ```
 
-#### Iteratee
+### Iteratee
 
 You might not find the term inside this kata but it is used often on Lodash's documentation.
 
@@ -196,4 +198,80 @@ Here, `formatted` will resolve to:
 ["Jane's ranking is 1/3", "John's ranking is 2/3", "Linda's ranking is 3/3"];
 ```
 
+## The functions (by difficulty level)
 
+### Easy
+
+- [compact](/methods/compact/compact.md)
+- [drop](/methods/drop/drop.md)
+- [dropRight](/methods/dropRight/dropRight.md)
+- [first](/methods/first/first.md)
+- [initial](/methods/initial/initial.md)
+- [last](/methods/last/last.md)
+- [nth](/methods/nth/nth.md)
+- [tail](/methods/tail/tail.md)
+- [take](/methods/take/take.md)
+- [takeRight](/methods/takeRight/takeRight.md)
+- [without](/methods/without/without.md)
+
+### Medium
+
+- [chunk](/methods/chunk/chunk.md)
+- [concat](/methods/concat/concat.md)
+- [difference](/methods/difference/difference.md)
+- [dropWhile](/methods/dropWhile/dropWhile.md)
+- [findIndex](/methods/findIndex/findIndex.md)
+- [flatten](/methods/flatten/flatten.md)
+- [flattenDeep](/methods/flattenDeep/flattenDeep.md)
+- [fromPairs](/methods/fromPairs/fromPairs.md)
+- [intersection](/methods/intersection/intersection.md)
+- [pull](/methods/pull/pull.md)
+- [pullAll](/methods/pullAll/pullAll.md)
+- [takeWhile](/methods/takeWhile/takeWhile.md)
+- [zipObject](/methods/zipObject/zipObject.md)
+
+### Hard
+
+- [differenceBy](/methods/differenceBy/differenceBy.md)
+- [differenceWith](/methods/differenceWith/differenceWith.md)
+- [dropRightWhile](/methods/dropRightWhile/dropRightWhile.md)
+- [fill](/methods/fill/fill.md)
+- [findLastIndex](/methods/findLastIndex/findLastIndex.md)
+- [flattenDepth](/methods/flattenDepth/flattenDepth.md)
+- [intersectionBy](/methods/intersectionBy/intersectionBy.md)
+- [intersectionWith](/methods/intersectionWith/intersectionWith.md)
+- [join](/methods/join/join.md)
+- [lastIndexOf](/methods/lastIndexOf/lastIndexOf.md)
+- [pullAllBy](/methods/pullAllBy/pullAllBy.md)
+- [pullAllWith](/methods/pullAllWith/pullAllWith.md)
+- [pullAt](/methods/pullAt/pullAt.md)
+- [remove](/methods/remove/remove.md)
+- [reverse](/methods/reverse/reverse.md)
+- [slice](/methods/slice/slice.md)
+- [sortedIndex](/methods/sortedIndex/sortedIndex.md)
+- [sortedIndexBy](/methods/sortedIndexBy/sortedIndexBy.md)
+- [sortedIndexOf](/methods/sortedIndexOf/sortedIndexOf.md)
+- [sortedLastIndex](/methods/sortedLastIndex/sortedLastIndex.md)
+- [sortedLastIndex](/methods/sortedLastIndex/sortedLastIndex.md)
+- [sortedLastIndexOf](/methods/sortedLastIndexOf/sortedLastIndexOf.md)
+- [sortedUniq](/methods/sortedUniq/sortedUniq.md)
+- [sortedUniqBy](/methods/sortedUniqBy/sortedUniqBy.md)
+- [takeRightWhile](/methods/takeRightWhile/takeRightWhile.md)
+- [union](/methods/union/union.md)
+- [unionBy](/methods/unionBy/unionBy.md)
+- [unionWith](/methods/unionWith/unionWith.md)
+- [uniq](/methods/uniq/uniq.md)
+- [uniqBy](/methods/uniqBy/uniqBy.md)
+- [uniqWith](/methods/uniqWith/uniqWith.md)
+- [unzip](/methods/unzip/unzip.md)
+- [unzipWith](/methods/unzipWith/unzipWith.md)
+- [xor](/methods/xor/xor.md)
+- [xorBy](/methods/xorBy/xorBy.md)
+- [xorWith](/methods/xorWith/xorWith.md)
+- [zip](/methods/zip/zip.md)
+- [zipWith](/methods/zipWith/zipWith.md)
+
+### Hardcore
+
+- [indexOf](/methods/indexOf/indexOf.md)
+- [zipObjectDeep](/methods/zipObjectDeep/zipObjectDeep.md)
