@@ -10,7 +10,7 @@ To help you solve this one, you can use the provided helpers (found in the `help
 
 Mutation: `false`
 
-Difficulty: `Hard`
+Difficulty: `Hardcore`
 
 Return type: `number`
 
