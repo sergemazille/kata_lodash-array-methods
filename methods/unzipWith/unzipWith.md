@@ -9,7 +9,9 @@ It is very similar to the `zipWith` function but accepts an array of arrays inst
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

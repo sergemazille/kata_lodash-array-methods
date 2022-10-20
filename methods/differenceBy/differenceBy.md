@@ -7,7 +7,9 @@ If the projected value of the array to filter is equal to the projected value of
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `T[]`
 
 ## Arguments

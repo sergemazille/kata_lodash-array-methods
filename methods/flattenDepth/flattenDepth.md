@@ -5,7 +5,9 @@ Flatten the subarrays of an array up to the number of levels provided as argumen
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

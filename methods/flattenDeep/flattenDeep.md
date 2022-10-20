@@ -5,7 +5,9 @@ Fully flatten the subarrays in an array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `unknown[]`
 
 ## Arguments

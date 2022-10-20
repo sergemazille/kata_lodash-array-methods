@@ -7,7 +7,9 @@ The predicate function accepts three arguments: an item, the index of the item i
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `unknown[]`
 
 ## Arguments

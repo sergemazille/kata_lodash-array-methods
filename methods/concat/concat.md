@@ -5,7 +5,9 @@ Concatenates all provided arguments into a single array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `unknown[]`
 
 ## Arguments

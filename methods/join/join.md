@@ -5,7 +5,9 @@ Join all elements of an array into a string and separated by a provided separato
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `string`
 
 ## Arguments

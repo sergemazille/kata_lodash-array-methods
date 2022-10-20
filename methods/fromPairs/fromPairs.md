@@ -5,7 +5,9 @@ Returns an **object** composed from the key-value pairs of a provided array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `Object`
 
 ## Arguments

@@ -11,7 +11,9 @@ This function is similar to `lastIndexOf` with the exception that it is optimize
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

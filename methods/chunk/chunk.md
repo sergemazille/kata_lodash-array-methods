@@ -5,7 +5,9 @@ Splits an array of elements into subarrays containing the requested number of el
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `unknown[][]`
 
 ## Arguments

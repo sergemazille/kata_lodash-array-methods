@@ -9,7 +9,9 @@ If the projected value is already present in the array, the result index is the 
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

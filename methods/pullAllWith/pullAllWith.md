@@ -7,7 +7,9 @@ The first argument is the reference array. While comparing each of its values wi
 ## Properties
 
 Mutation: `true`
+
 Difficulty: `Hard`
+
 Return type: `T[]`
 
 ## Arguments

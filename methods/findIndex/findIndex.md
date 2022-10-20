@@ -7,7 +7,9 @@ By default the predicate function starts from the first item but an optional sta
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `number`
 
 ## Arguments

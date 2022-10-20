@@ -7,7 +7,9 @@ This function **does mutate** the original array.
 ## Properties
 
 Mutation: `true`
+
 Difficulty: `Medium`
+
 Return type: `unknown[]`
 
 ## Arguments

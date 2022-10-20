@@ -5,7 +5,9 @@ Removes the falsy values of an array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Easy`
+
 Return type: `unknown[]`
 
 ## Arguments

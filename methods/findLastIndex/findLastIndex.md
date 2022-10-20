@@ -9,7 +9,9 @@ By default the predicate function starts from the last item but an optional argu
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

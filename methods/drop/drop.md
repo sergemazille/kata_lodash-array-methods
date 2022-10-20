@@ -5,7 +5,9 @@ Removes the provided number of items from the beginning of an array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Easy`
+
 Return type: `unknown[]`
 
 ## Arguments

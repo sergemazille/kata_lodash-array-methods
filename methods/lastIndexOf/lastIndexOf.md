@@ -9,7 +9,9 @@ By default the function starts from the last item but an optional argument can o
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

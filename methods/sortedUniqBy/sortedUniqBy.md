@@ -5,7 +5,9 @@ This function is similar to `uniqBy` with the exception that it is optimized for
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

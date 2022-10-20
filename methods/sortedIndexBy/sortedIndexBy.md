@@ -7,7 +7,9 @@ Similar to the `sortIndex` function but compares the values evaluated through a 
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

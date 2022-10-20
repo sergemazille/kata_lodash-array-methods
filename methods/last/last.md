@@ -5,7 +5,9 @@ Returns the last item of an array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Easy`
+
 Return type: `any`
 
 ## Arguments

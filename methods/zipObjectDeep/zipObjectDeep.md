@@ -11,7 +11,9 @@ This method involves multiple steps to be resolved. You can use `mergeObjects` a
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `Object`
 
 ## Arguments

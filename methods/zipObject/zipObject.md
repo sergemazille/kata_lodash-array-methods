@@ -7,7 +7,9 @@ The first array provides the properties while the second one provides the values
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `Object`
 
 ## Arguments

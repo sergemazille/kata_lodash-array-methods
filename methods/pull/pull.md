@@ -7,7 +7,9 @@ This function is similar to the `without` function, with the exception that it *
 ## Properties
 
 Mutation: `true`
+
 Difficulty: `Medium`
+
 Return type: `T[]`
 
 ## Arguments

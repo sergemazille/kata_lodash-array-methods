@@ -5,7 +5,9 @@ Flatten the first level of subarrays in an array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `unknown[]`
 
 ## Arguments

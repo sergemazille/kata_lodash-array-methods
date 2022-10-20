@@ -7,7 +7,9 @@ Similar to the `sortedIndex` function but if the value is already present in the
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

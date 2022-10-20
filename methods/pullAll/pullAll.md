@@ -9,7 +9,9 @@ This function is very similar with the `pull` function, with the exception that 
 ## Properties
 
 Mutation: `true`
+
 Difficulty: `Medium`
+
 Return type: `T[]`
 
 ## Arguments

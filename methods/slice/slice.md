@@ -5,7 +5,9 @@ Returns the items included between a start index and an excluded end index.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

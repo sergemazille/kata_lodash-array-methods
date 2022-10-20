@@ -11,7 +11,9 @@ It is very similar to the `unzip` function but accepts a list of arrays as an in
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[][]`
 
 ## Arguments

@@ -5,7 +5,9 @@ Similar to the `uniq` function but compares the uniqueness of the values through
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

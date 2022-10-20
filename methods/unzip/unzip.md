@@ -11,7 +11,9 @@ It is very similar to the `zip` function but accepts an array of arrays as an in
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[][]`
 
 ## Arguments

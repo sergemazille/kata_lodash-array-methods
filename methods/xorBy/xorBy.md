@@ -9,7 +9,9 @@ If a projected value is a duplicate in its own array then only the first occuren
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

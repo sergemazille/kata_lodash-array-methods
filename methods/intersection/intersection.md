@@ -7,7 +7,9 @@ If the value of an item is **not** also found in **each** of the subsets, then i
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `unknown[]`
 
 ## Arguments

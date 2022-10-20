@@ -9,7 +9,9 @@ If the value of an item is also found in the comparison dataset, then it is excl
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Medium`
+
 Return type: `T[]`
 
 ## Arguments

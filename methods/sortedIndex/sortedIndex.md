@@ -5,7 +5,9 @@ Returns the lowest index where the value could be inserted while keeping the arr
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

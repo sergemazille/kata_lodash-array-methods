@@ -9,7 +9,9 @@ To help you solve this one, you can use the provided helpers (found in the `help
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

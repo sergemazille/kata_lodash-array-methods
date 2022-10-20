@@ -9,7 +9,9 @@ This function is similar to `indexOf` with the exception that it is optimized fo
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `number`
 
 ## Arguments

@@ -5,7 +5,9 @@ Removes the provided number of items, starting from the end of an array.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Easy`
+
 Return type: `unknown[]`
 
 ## Arguments

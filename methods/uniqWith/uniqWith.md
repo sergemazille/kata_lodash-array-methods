@@ -7,7 +7,9 @@ While comparing each values together, if the function returns true, then the con
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

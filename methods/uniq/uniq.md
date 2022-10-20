@@ -5,7 +5,9 @@ Returns only the first occurence of each values (ignores the eventual duplicates
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

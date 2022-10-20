@@ -9,7 +9,9 @@ The return array is composed of the **removed** values.
 ## Properties
 
 Mutation: `true`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

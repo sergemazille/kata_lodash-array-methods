@@ -7,7 +7,9 @@ Very similar to `uniq` with the difference that it accepts multiple arrays as ar
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

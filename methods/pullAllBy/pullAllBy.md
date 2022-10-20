@@ -11,7 +11,9 @@ This function **does mutate** the original array.
 ## Properties
 
 Mutation: `true`
+
 Difficulty: `Hard`
+
 Return type: `T[]`
 
 ## Arguments

@@ -7,7 +7,9 @@ If a value is a duplicate in its own array then only the first occurence will be
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

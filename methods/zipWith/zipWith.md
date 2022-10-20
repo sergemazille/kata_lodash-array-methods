@@ -9,7 +9,9 @@ It is very similar to the `unzipWith` function but accepts a list of arrays as a
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Hard`
+
 Return type: `unknown[]`
 
 ## Arguments

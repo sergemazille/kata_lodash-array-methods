@@ -5,7 +5,9 @@ Returns all the items of an array **but** the first one.
 ## Properties
 
 Mutation: `false`
+
 Difficulty: `Easy`
+
 Return type: `unknown[]`
 
 ## Arguments
